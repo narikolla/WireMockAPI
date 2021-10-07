@@ -23,32 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b85ae7e1-aca5-4fdb-a37a-d556de4db97d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wiremock_http.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/WiremockHttpServer.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stubs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/AddProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/AddProductResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartRequest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartSuccessResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartSuccessResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/GetCartDoubleResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/GetCartDoubleResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/PutProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/PutProductResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/swtestacademyshopstub.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/swtestacademyshopstub.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stubs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stubs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utils/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/JsonUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/AddProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/AddProductResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartRequest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartSuccessResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartSuccessResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/GetCartDoubleResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/GetCartDoubleResponse.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/PutProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/PutProductResponse.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" afterDir="false" />
@@ -228,7 +203,7 @@
       <workItem from="1633348939363" duration="1210000" />
       <workItem from="1633350444608" duration="9516000" />
       <workItem from="1633383946696" duration="76000" />
-      <workItem from="1633501506200" duration="6528000" />
+      <workItem from="1633501506200" duration="7169000" />
     </task>
     <servers />
   </component>
