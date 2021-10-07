@@ -22,12 +22,9 @@ public class Stubs {
     public Stubs stubForCreateCart(String responseFileName) {
         wireMockServer.stubFor(post("/carts")
             .withHeader("Content-Type", equalToIgnoreCase("application/json"))
-            .withHeader("Accept", equalToIgnoreCase("application/json"))
-            .withHeader("Version", equalToIgnoreCase("v1"))
-            .withHeader("Client", equalToIgnoreCase("Android"))
-            .withHeader("Authorization", equalToIgnoreCase("Bearer SWTestAcademyShopSecretToken"))
-            .withRequestBody(matchingJsonPath("$.customer.firstName", equalTo("Onur")))
-            .withRequestBody(matchingJsonPath("$.customer.lastName", equalTo("Baskirt")))
+            .withHeader("Authorization", equalToIgnoreCase("Bearer WireMockToken"))
+            .withRequestBody(matchingJsonPath("$.customer.firstName", equalTo("Narendra")))
+            .withRequestBody(matchingJsonPath("$.customer.lastName", equalTo("Kolla")))
             .willReturn(aResponse()
                 .withStatus(201)
                 .withHeader("Content-Type", "application/json")
@@ -46,7 +43,7 @@ public class Stubs {
     }
 
     public Stubs stubForGetCartSingle(String responseFileName) {
-        wireMockServer.stubFor(get("/carts/klms2f4c-8129-4a4b-b32d-550b7fc3cfb2?productCount=1")
+            wireMockServer.stubFor(get("/carts/1?productCount=1")
             .willReturn(aResponse()
                 .withStatus(200)
                 .withHeader("Content-Type", "application/json")
@@ -55,7 +52,7 @@ public class Stubs {
     }
 
     public Stubs stubForGetCartDouble(String responseFileName) {
-        wireMockServer.stubFor(get("/carts/klms2f4c-8129-4a4b-b32d-550b7fc3cfb2?productCount=2")
+        wireMockServer.stubFor(get("/carts/1?productCount=2")
             .willReturn(aResponse()
                 .withStatus(200)
                 .withHeader("Content-Type", "application/json")
@@ -65,7 +62,7 @@ public class Stubs {
 
     public Stubs stubForAddProduct(String requestFileName, String responseFileName) {
         jsonUtil.setJSON("/__files/json/".concat(requestFileName));
-        wireMockServer.stubFor(post("/carts/klms2f4c-8129-4a4b-b32d-550b7fc3cfb2")
+        wireMockServer.stubFor(post("/carts/1")
             .withRequestBody(equalToJson(jsonUtil.getJSON().toString(), true, true))
             .willReturn(aResponse()
                 .withStatus(200)
@@ -76,7 +73,7 @@ public class Stubs {
 
     public Stubs stubForPutProduct(String requestFileName, String responseFileName) {
         jsonUtil.setJSON("/__files/json/".concat(requestFileName));
-        wireMockServer.stubFor(post("/carts/klms2f4c-8129-4a4b-b32d-550b7fc3cfb2/products/93b55282-334c-48b0-a8f7-a9d5eef9c4b9")
+        wireMockServer.stubFor(post("/carts/1/products/1")
             .withRequestBody(equalToJson(jsonUtil.getJSON().toString(), true, true))
             .willReturn(aResponse()
                 .withStatus(200)
@@ -86,7 +83,7 @@ public class Stubs {
     }
 
     public Stubs stubForDeleteProduct() {
-        wireMockServer.stubFor(delete("/carts/klms2f4c-8129-4a4b-b32d-550b7fc3cfb2/products/93b55282-334c-48b0-a8f7-a9d5eef9c4b9")
+        wireMockServer.stubFor(delete("/carts/1/products/1")
             .willReturn(aResponse()
                 .withStatus(204)));
         return this;

@@ -6,8 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="wiremock-http" />
+        <module name="wiremock-junit" />
         <module name="swtestacademyshopstub" />
+        <module name="PowerMockitoIntegration" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mockito-examples" target="8" />
+      <module name="mockito.example" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

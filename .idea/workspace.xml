@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b85ae7e1-aca5-4fdb-a37a-d556de4db97d" name="Default Changelist" comment="" />
+    <list default="true" id="b85ae7e1-aca5-4fdb-a37a-d556de4db97d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wiremock_http.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/WiremockHttpServer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stubs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stubs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/AddProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/AddProductResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartRequest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartSuccessResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/CreateCartSuccessResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/GetCartDoubleResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/GetCartDoubleResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/__files/json/PutProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/__files/json/PutProductResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swtestacademyshopstub.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/swtestacademyshopstub.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stubs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stubs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utils/JsonUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/AddProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/AddProductResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartRequest.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartRequest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartSuccessResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/CreateCartSuccessResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/GetCartDoubleResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/GetCartDoubleResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/__files/json/PutProductResponse.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/__files/json/PutProductResponse.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiremock-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,57 +65,156 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1URol26at329XZz1egQykeA3Ouf" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/__files/json" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/resources/__files/json" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/META-INF" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/main/resources/__files/json" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utils" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources/__files/json" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/__files/json" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="StubServerMain" />
-      <module name="swtestacademyshopstub" />
+  <component name="RunManager" selected="JUnit.PowerMockitoStaticVoidMethodExample.stubStaticVoidMethod">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+    <configuration name="PowerMockitoIntegrationExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PowerMockitoIntegration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.PowerMockitoIntegrationExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerMockitoIntegrationExample.startSystem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PowerMockitoIntegration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.PowerMockitoIntegrationExample" />
+      <option name="METHOD_NAME" value="startSystem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerMockitoStaticVoidMethodExample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PowerMockitoIntegration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.PowerMockitoStaticVoidMethodExample" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerMockitoStaticVoidMethodExample.stubStaticVoidMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PowerMockitoIntegration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test.mockito" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.PowerMockitoStaticVoidMethodExample" />
+      <option name="METHOD_NAME" value="stubStaticVoidMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerMockitoVerifyPrivateMethodExample.verifyPrivateMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.mockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="com.test.mockito.PowerMockitoVerifyPrivateMethodExample" />
+      <option name="METHOD_NAME" value="verifyPrivateMethods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WiremockHttpServer" />
+      <item itemvalue="JUnit.PowerMockitoIntegrationExample" />
+      <item itemvalue="JUnit.PowerMockitoIntegrationExample.startSystem" />
+      <item itemvalue="JUnit.PowerMockitoStaticVoidMethodExample" />
+      <item itemvalue="JUnit.PowerMockitoVerifyPrivateMethodExample.verifyPrivateMethods" />
+      <item itemvalue="JUnit.PowerMockitoStaticVoidMethodExample.stubStaticVoidMethod" />
+    </list>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="JUnit.PowerMockitoStaticVoidMethodExample.stubStaticVoidMethod" />
+        <item itemvalue="JUnit.PowerMockitoVerifyPrivateMethodExample.verifyPrivateMethods" />
+        <item itemvalue="JUnit.PowerMockitoStaticVoidMethodExample" />
+        <item itemvalue="JUnit.PowerMockitoIntegrationExample.startSystem" />
+        <item itemvalue="JUnit.PowerMockitoIntegrationExample" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -75,89 +225,108 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575328915789</updated>
+      <workItem from="1633348939363" duration="1210000" />
+      <workItem from="1633350444608" duration="9516000" />
+      <workItem from="1633383946696" duration="76000" />
+      <workItem from="1633501506200" duration="6528000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579355280988">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="653" y="25" key="#Project_Structure" timestamp="1633579626057">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state x="304" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.967@0.23.1680.967" timestamp="1575329303498" />
-    <state x="304" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.974@0.23.1680.974" timestamp="1579355280988" />
-    <state x="304" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1578250678668" />
-    <state x="577" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575329274966">
-      <screen x="0" y="23" width="1680" height="967" />
+    <state x="653" y="25" key="#Project_Structure/0.25.1920.972@0.25.1920.972" timestamp="1633579626057" />
+    <state x="424" y="104" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633352959909">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state x="577" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.967@0.23.1680.967" timestamp="1575329274966" />
-    <state width="1638" height="242" key="GridCell.Tab.0.bottom" timestamp="1579355566202">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="424" y="104" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.972@0.25.1920.972" timestamp="1633352959909" />
+    <state x="902" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1633352589998">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1575337705799" />
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1575336122026" />
-    <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1579297760746" />
-    <state width="1638" height="323" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1579299956378" />
-    <state width="1638" height="242" key="GridCell.Tab.0.bottom/0.23.1680.974@0.23.1680.974" timestamp="1579355566202" />
-    <state width="1638" height="242" key="GridCell.Tab.0.bottom/0.23.1680.975@0.23.1680.975" timestamp="1579355543202" />
-    <state width="1878" height="226" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1578819624662" />
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom/0.23.1680.977@0.23.1680.977" timestamp="1576352471732" />
-    <state width="1878" height="347" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1578250745031" />
-    <state width="1878" height="347" key="GridCell.Tab.0.bottom/0.23.1680.979@0.23.1680.979" timestamp="1578250813666" />
-    <state width="1638" height="340" key="GridCell.Tab.0.bottom/1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1576885332629" />
-    <state width="1638" height="242" key="GridCell.Tab.0.center" timestamp="1579355566201">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state x="902" y="241" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1920.972@0.25.1920.972" timestamp="1633352589998" />
+    <state width="1878" height="217" key="GridCell.Tab.0.bottom" timestamp="1633586485636">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state width="1638" height="340" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1575337705798" />
-    <state width="1638" height="340" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1575336122025" />
-    <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1579297760745" />
-    <state width="1638" height="323" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1579299956378" />
-    <state width="1638" height="242" key="GridCell.Tab.0.center/0.23.1680.974@0.23.1680.974" timestamp="1579355566201" />
-    <state width="1638" height="242" key="GridCell.Tab.0.center/0.23.1680.975@0.23.1680.975" timestamp="1579355543201" />
-    <state width="1878" height="226" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1578819624662" />
-    <state width="1638" height="340" key="GridCell.Tab.0.center/0.23.1680.977@0.23.1680.977" timestamp="1576352471731" />
-    <state width="1878" height="347" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1578250745030" />
-    <state width="1878" height="347" key="GridCell.Tab.0.center/0.23.1680.979@0.23.1680.979" timestamp="1578250813665" />
-    <state width="1638" height="340" key="GridCell.Tab.0.center/1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1576885332629" />
-    <state width="1638" height="242" key="GridCell.Tab.0.left" timestamp="1579355566200">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1878" height="217" key="GridCell.Tab.0.bottom/0.25.1920.972@0.25.1920.972" timestamp="1633586485636" />
+    <state width="1878" height="217" key="GridCell.Tab.0.center" timestamp="1633586485635">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state width="1638" height="340" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1575337705797" />
-    <state width="1638" height="340" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1575336122025" />
-    <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1579297760744" />
-    <state width="1638" height="323" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1579299956377" />
-    <state width="1638" height="242" key="GridCell.Tab.0.left/0.23.1680.974@0.23.1680.974" timestamp="1579355566200" />
-    <state width="1638" height="242" key="GridCell.Tab.0.left/0.23.1680.975@0.23.1680.975" timestamp="1579355543201" />
-    <state width="1878" height="226" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1578819624661" />
-    <state width="1638" height="340" key="GridCell.Tab.0.left/0.23.1680.977@0.23.1680.977" timestamp="1576352471731" />
-    <state width="1878" height="347" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1578250745030" />
-    <state width="1878" height="347" key="GridCell.Tab.0.left/0.23.1680.979@0.23.1680.979" timestamp="1578250813664" />
-    <state width="1638" height="340" key="GridCell.Tab.0.left/1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1576885332628" />
-    <state width="1638" height="242" key="GridCell.Tab.0.right" timestamp="1579355566202">
-      <screen x="0" y="23" width="1680" height="974" />
+    <state width="1878" height="217" key="GridCell.Tab.0.center/0.25.1920.972@0.25.1920.972" timestamp="1633586485635" />
+    <state width="1878" height="217" key="GridCell.Tab.0.left" timestamp="1633586485635">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state width="1638" height="340" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1575337705798" />
-    <state width="1638" height="340" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1575336122026" />
-    <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1579297760745" />
-    <state width="1638" height="323" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1579299956378" />
-    <state width="1638" height="242" key="GridCell.Tab.0.right/0.23.1680.974@0.23.1680.974" timestamp="1579355566202" />
-    <state width="1638" height="242" key="GridCell.Tab.0.right/0.23.1680.975@0.23.1680.975" timestamp="1579355543202" />
-    <state width="1878" height="226" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1578819624662" />
-    <state width="1638" height="340" key="GridCell.Tab.0.right/0.23.1680.977@0.23.1680.977" timestamp="1576352471731" />
-    <state width="1878" height="347" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1578250745031" />
-    <state width="1878" height="347" key="GridCell.Tab.0.right/0.23.1680.979@0.23.1680.979" timestamp="1578250813665" />
-    <state width="1638" height="340" key="GridCell.Tab.0.right/1920.23.1920.1057/0.23.1920.989@0.23.1920.989" timestamp="1576885332629" />
-    <state x="378" y="170" key="Maven.ArtifactSearchDialog" timestamp="1575330959219">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state width="1878" height="217" key="GridCell.Tab.0.left/0.25.1920.972@0.25.1920.972" timestamp="1633586485635" />
+    <state width="1878" height="217" key="GridCell.Tab.0.right" timestamp="1633586485635">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state x="378" y="170" key="Maven.ArtifactSearchDialog/0.23.1680.965@0.23.1680.965" timestamp="1575330959219" />
-    <state x="378" y="170" key="Maven.ArtifactSearchDialog/0.23.1680.966@0.23.1680.966" timestamp="1575330410441" />
-    <state x="341" y="144" key="SettingsEditor" timestamp="1579300540298">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1878" height="217" key="GridCell.Tab.0.right/0.25.1920.972@0.25.1920.972" timestamp="1633586485635" />
+    <state width="1878" height="269" key="GridCell.Tab.1.bottom" timestamp="1633366583174">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state x="341" y="144" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579295685594" />
-    <state x="341" y="144" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579300540298" />
-    <state x="505" y="235" key="search.everywhere.popup" timestamp="1579299942669">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state width="1878" height="269" key="GridCell.Tab.1.bottom/0.25.1920.972@0.25.1920.972" timestamp="1633366583174" />
+    <state width="1878" height="269" key="GridCell.Tab.1.center" timestamp="1633366583174">
+      <screen x="0" y="25" width="1920" height="972" />
     </state>
-    <state x="505" y="235" key="search.everywhere.popup/0.23.1680.966@0.23.1680.966" timestamp="1579299942669" />
+    <state width="1878" height="269" key="GridCell.Tab.1.center/0.25.1920.972@0.25.1920.972" timestamp="1633366583174" />
+    <state width="1878" height="269" key="GridCell.Tab.1.left" timestamp="1633366583174">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.1.left/0.25.1920.972@0.25.1920.972" timestamp="1633366583174" />
+    <state width="1878" height="269" key="GridCell.Tab.1.right" timestamp="1633366583174">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.1.right/0.25.1920.972@0.25.1920.972" timestamp="1633366583174" />
+    <state x="505" y="104" key="Maven.ArtifactSearchDialog" timestamp="1633579887503">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state x="505" y="104" key="Maven.ArtifactSearchDialog/0.25.1920.972@0.25.1920.972" timestamp="1633579887503" />
+    <state x="798" y="150" width="744" height="593" key="NewModule_or_Project.wizard" timestamp="1633579151416">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state x="798" y="150" width="744" height="593" key="NewModule_or_Project.wizard/0.25.1920.972@0.25.1920.972" timestamp="1633579151416" />
+    <state x="476" y="81" key="SettingsEditor" timestamp="1633579511356">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state x="476" y="81" key="SettingsEditor/0.25.1920.972@0.25.1920.972" timestamp="1633579511356" />
+    <state x="549" y="106" key="new project wizard" timestamp="1633579191846">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state x="549" y="106" key="new project wizard/0.25.1920.972@0.25.1920.972" timestamp="1633579191846" />
+    <state x="625" y="206" width="670" height="676" key="search.everywhere.popup" timestamp="1633354379674">
+      <screen x="0" y="25" width="1920" height="972" />
+    </state>
+    <state x="625" y="206" width="670" height="676" key="search.everywhere.popup/0.25.1920.972@0.25.1920.972" timestamp="1633354379674" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/StubServerMain.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

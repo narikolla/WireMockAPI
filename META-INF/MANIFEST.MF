@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: StubServerMain
+Class-Path: wiremock-http-1.0-SNAPSHOT.jar
+

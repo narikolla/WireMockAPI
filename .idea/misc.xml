@@ -31,6 +31,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../wiremock-junit/pom.xml" />
+        <option value="$PROJECT_DIR$/../powerMockitoIntegration/pom.xml" />
       </list>
     </option>
   </component>
