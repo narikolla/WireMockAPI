@@ -23,7 +23,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b85ae7e1-aca5-4fdb-a37a-d556de4db97d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/src/test/java/WireMockJUnit5Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" beforeDir="false" afterPath="$PROJECT_DIR$/../wiremock-junit/target/test-classes/__files/json/glossary.json" afterDir="false" />
@@ -41,7 +40,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../powerMockitoIntegration" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -51,6 +50,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1URol26at329XZz1egQykeA3Ouf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -203,7 +203,7 @@
       <workItem from="1633348939363" duration="1210000" />
       <workItem from="1633350444608" duration="9516000" />
       <workItem from="1633383946696" duration="76000" />
-      <workItem from="1633501506200" duration="7169000" />
+      <workItem from="1633501506200" duration="7477000" />
     </task>
     <servers />
   </component>
